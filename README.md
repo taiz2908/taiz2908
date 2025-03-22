@@ -1,16 +1,32 @@
-## Hi there 👋
+🚀 Ibraur Ahemad | Cloud & DevOps Engineer
 
-<!--
-**taiz2908/taiz2908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Location: Bangalore, India
+🏢 Organization: DXC Technology
+📌 Specialization: Cloud & DevOps
+--------------------------------------
 
-Here are some ideas to get you started:
+📜 About Me
+👋 Hi there! I'm Ibraur Ahemad, a DevOps Engineer passionate about automating cloud infrastructure and improving CI/CD pipelines. With experience in AWS, Kubernetes, and modern DevOps tools, I help organizations streamline deployments and optimize cloud environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Education
+🎓 B.Tech – [Your University]
+🎓 MBA – 
+
+☁️ Cloud Skills
+AWS Services:
+ - IAM | EC2 | EBS | S3 | EFS | CloudWatch | ELB | DocumentDB | Route53 | ECS | ECR | EKS | Support
+
+🔧 DevOps & Technical Skills
+💻 DevOps Tools:
+ - Tools: Jenkins | GitHub | Git | Maven | Docker | Kubernetes | Terraform | Prometheus | Grafana | IBM UCD | SonarQube
+
+Operating Systems:
+ - Linux | Windows 
+ITSM & Software Management:
+ - ServiceNow | Jira | Confluence
+
+
+📜 Certifications
+🏆 Cloud Certifications:
+ - AWS Cloud Practitioner
+ - Azure Fundamentals

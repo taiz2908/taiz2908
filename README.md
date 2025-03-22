@@ -21,7 +21,8 @@ AWS Services:
  - Tools: Jenkins | GitHub | Git | Maven | Docker | Kubernetes | Terraform | Prometheus | Grafana | IBM UCD | SonarQube
 
 💻 Operating Systems:
-  - Linux | Windows 
+  - Linux | Windows
+    
   ITSM & Software Management:
   - ServiceNow | Jira | Confluence
 

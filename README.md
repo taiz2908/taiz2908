@@ -14,7 +14,7 @@
 
 ☁️ Cloud Skills
 AWS Services:
- - IAM | EC2 | EBS | S3 | EFS | CloudWatch | ELB | DocumentDB | Route53 | ECS | ECR | EKS | Support
+ - IAM | EC2 | EBS | S3 | EFS | CloudWatch | ELB | DocumentDB | Route53 | ECS | ECR | EKS | Lambda | Support
 
 🔧 DevOps & Technical Skills
 💻 DevOps Tools:

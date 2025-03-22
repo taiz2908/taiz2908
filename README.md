@@ -20,10 +20,10 @@ AWS Services:
 💻 DevOps Tools:
  - Tools: Jenkins | GitHub | Git | Maven | Docker | Kubernetes | Terraform | Prometheus | Grafana | IBM UCD | SonarQube
 
-Operating Systems:
- - Linux | Windows 
-ITSM & Software Management:
- - ServiceNow | Jira | Confluence
+💻 Operating Systems:
+  - Linux | Windows 
+  ITSM & Software Management:
+  - ServiceNow | Jira | Confluence
 
 
 📜 Certifications
